@@ -2,4 +2,4 @@
 
 Coursera course: HTML, CSS, and Javascript for Web Developers
 
-output https://github.com/nazarlvr/Coursera_HTML-CSS-and-Javascript-for-Web-Developers/index.html
+https://siddartha19.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Assignments/module-2/index.html output
